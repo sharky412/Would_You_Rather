@@ -8,6 +8,7 @@ A "Would You Rather?" polling app built with **React** and **Redux**. Users log 
 ![Redux](https://img.shields.io/badge/Redux-4-764ABC?logo=redux&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-6-CA4245?logo=reactrouter&logoColor=white)
 ![Bulma](https://img.shields.io/badge/Bulma-0.9-00D1B2?logo=bulma&logoColor=white)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Planned Features
 
@@ -51,3 +52,7 @@ src/
 └── utils/_DATA.js  # Mock users/questions data and async API
 public/images/      # User avatars
 ```
+
+## License
+
+Released under the [MIT License](LICENSE).
